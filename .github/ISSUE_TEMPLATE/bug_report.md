@@ -9,4 +9,6 @@ assignees: ''
 
 Please try to clearly describe the problem.
 
-Including a screenshot of the problem (or a [screencast](https://www.loom.com/)) is a good idea.
+Including a screenshot of the problem is a good idea.
+
+(Or a screencast - https://www.loom.com/)
