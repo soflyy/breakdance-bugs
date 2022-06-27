@@ -7,15 +7,6 @@ assignees: ''
 
 ---
 
-**CLEARLY and CONCISELY Describe the bug**
-A clear and concise description of what the bug is.
+Please try to clearly describe the problem.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Screencast**
-If applicable, please include a [screencast](https://www.loom.com/) showing the issue. 
+Including a screenshot of the problem (or a [screencast](https://www.loom.com/)) is a good idea.
