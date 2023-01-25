@@ -23,13 +23,7 @@ For example: macOS, Windows
 
 **Reproduction  Steps**
 
-<!-- In order for us to effectively troubleshoot and fix the bug you are experiencing, we need specific instructions on how to reproduce the issue. Please provide the following information.
-
-- Detailed steps on how to reproduce the bug, including any specific elements or controls used.
-- Any error messages or screenshots that may be relevant.
-- Describe the problem you're seeing and what behavior you expect instead
-
-A reproduction is **required** when filing an issue — any issue opened without a reproduction will be closed and you'll be asked to create a new issue that includes a reproduction. -->
+<!-- In order for us to effectively troubleshoot and fix the bug you are experiencing, we need specific instructions on how to reproduce the issue. We need: detailed steps on how to reproduce the bug, including any specific elements or controls, any error messages or screenshots that may be relevant. We want you to describe the problem you're seeing and what behavior you expect instead. A reproduction is **required** when filing an issue — any issue opened without a reproduction will be closed and you'll be asked to create a new issue that includes a reproduction. -->
 
 **Reproduction Video**
 
