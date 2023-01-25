@@ -21,27 +21,16 @@ For example: Chrome, Safari, or N/A
 
 For example: macOS, Windows
 
-**Reproduction URL**
-<!--
-In order for us to effectively troubleshoot and fix the bug you are experiencing, we need specific instructions on how to reproduce the issue. Please provide the following information.
+**Reproduction  Steps**
 
-- Detailed steps on how to reproduce the bug, including any specific elements or settings used.
+<!-- In order for us to effectively troubleshoot and fix the bug you are experiencing, we need specific instructions on how to reproduce the issue. Please provide the following information.
+
+- Detailed steps on how to reproduce the bug, including any specific elements or controls used.
 - Any error messages or screenshots that may be relevant.
-- Describe the problem you're seeing andwhat behavior you expect instead
+- Describe the problem you're seeing and what behavior you expect instead
 
-Please note that without the information above, the bug report may be closed. We're a small team and we can't keep up with the volume of issues we receive if we need to reproduce each issue from scratch ourselves.
-
-A reproduction is **required** when filing an issue — any issue opened without a reproduction will be closed and you'll be asked to create a new issue that includes a reproduction. 
--->
+A reproduction is **required** when filing an issue — any issue opened without a reproduction will be closed and you'll be asked to create a new issue that includes a reproduction. -->
 
 **Reproduction Video**
 
-<!-- 
-
-In order to better understand and reproduce the bug you are experiencing, it would be extremely helpful if you could provide a screen video of the issue. This will give us a visual representation of the problem and allow us to see exactly what is happening.
-
-We recommend using a free screen recording software such as Loom to record the video. This software allows you to record your screen and microphone, making it easy to explain the problem as you demonstrate it on your screen.
-
-Please make sure that the video is clear and shows all the steps to reproduce the bug, including any error messages that may appear.
-
--->
+<!-- In order to better understand and reproduce the bug you are experiencing, it would be extremely helpful if you could provide a screen video of the issue. This will give us a visual representation of the problem and allow us to see exactly what is happening. We recommend using a free screen recording software such as Loom to record the video. -->
