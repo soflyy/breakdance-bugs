@@ -9,6 +9,7 @@ assignees: ''
 
 You MUST include a clear description of the bug and EXACT steps to reproduce the bug or IT WILL BE CLOSED:
 
+For example:
 1. Create a page
 2. At Settings > Reading, set this page to your homepage
 3. Open the page with Breakdance
