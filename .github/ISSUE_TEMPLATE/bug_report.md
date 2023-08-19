@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-We do not provide technical support
-
 You MUST include a clear description of the bug and EXACT steps to reproduce the bug or IT WILL BE CLOSED:
 
 1. Create a page
