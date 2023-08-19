@@ -7,24 +7,19 @@ assignees: ''
 
 ---
 
-<!-- Please provide all of the information requested below. We're a small team and without all of this information it's not possible for us to help and your bug report will be closed. -->
+We do not provide technical support
 
-**What version of Breakdance are you using?**
+You MUST include a clear description of the bug and EXACT steps to reproduce the bug or IT WILL BE CLOSED:
 
-For example: v1.2
+1. Create a page
+2. At Settings > Reading, set this page to your homepage
+3. Open the page with Breakdance
+4. Add a Heading element and set the color to dark green (00AA00 or darker)
+5. Instead of seeing a dark green heading, I see a dinosaur and a message saying "you've turned back the clock".
 
-**What browser are you using?**
+The full text of any error messages are helpful. Screenshots are also helpful.
 
-For example: Chrome, Safari, or N/A
-
-**What operating system are you using?**
-
-For example: macOS, Windows
-
-**Reproduction  Steps**
-
-<!-- In order for us to effectively troubleshoot and fix the bug you are experiencing, we need specific instructions on how to reproduce the issue. We need: detailed steps on how to reproduce the bug, including any specific elements or controls, any error messages or screenshots that may be relevant. We want you to describe the problem you're seeing and what behavior you expect instead. A reproduction is **required** when filing an issue — any issue opened without a reproduction will be closed and you'll be asked to create a new issue that includes a reproduction. -->
-
-**Reproduction Video**
-
-<!-- In order to better understand and reproduce the bug you are experiencing, it would be extremely helpful if you could provide a screen video of the issue. This will give us a visual representation of the problem and allow us to see exactly what is happening. We recommend using a free screen recording software such as Loom to record the video. -->
+You should also include the following information:
+ - Breakdance version
+ - Browser & OS
+ - If you receive any kind of error message, you should also provide your PHP and WordPress version
