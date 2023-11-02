@@ -4,6 +4,8 @@ Report bugs for Breakdance in this repository. Bugs must include clear instructi
 
 If the bug only happens on your environment but can't be reproduced elsewhere, contact our support team for assistance. Visit https://breakdance.com/support for technical support from the Breakdance team.
 
-For feature requests and functionality enhancements, please post at https://breakdance.canny.io/
+Feature requests and functionality enhancements must be posted at https://breakdance.canny.io/. 
+
+*Note: there are some existing feature requests in this repository. While those will remain here for now, all new requests should be posted at https://breakdance.canny.io/*
 
 **All reports without clear, repeatable steps to reproduce will be closed.**
