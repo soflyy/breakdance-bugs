@@ -1,6 +1,6 @@
 ## USER BUG REPORTS ONLY - ALL OTHER ISSUES WILL BE CLOSED WITHOUT RESPONSE
 
-Report bugs for Breakdance in this repository. Bugs must include clear instructions to reproduce.
+Report bugs for Breakdance in this repository. Bugs must include clear instructions to reproduce and contain all relevant information.
 
 If the bug only happens on your environment but can't be reproduced elsewhere, contact our support team for assistance. Visit https://breakdance.com/support for technical support from the Breakdance team.
 
