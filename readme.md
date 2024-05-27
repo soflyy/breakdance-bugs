@@ -20,7 +20,11 @@ Invalid bug reports or posts that are not bug reports will be closed or deleted.
 
 We periodically review bug reports posted here and choose how to prioritize them for fixes.
 
-The Breakdance team does not respond here. If you require a response, please contact our support team.
+If you can see your issue at https://github.com/soflyy/breakdance-bugs/issues, it means the Breakdance team has received your issue.
+
+You will not receive further confirmation or communication about the status of the issue.
+
+If you require a response, please contact our support team.
 
 # Other
 
