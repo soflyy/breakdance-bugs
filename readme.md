@@ -1,6 +1,6 @@
 ## Welcome to the Breakdance Bug Report Repository!
 
-Thank you for choosing to help us improve Breakdance! This repository is dedicated to collecting bug reports for the Breakdance WordPress plugins. Your contributions are vital to enhancing the quality and performance of Breakdance, and we are eager to hear from you.
+Thank you for choosing to help us improve Breakdance. This repository is dedicated to collecting bug reports for the Breakdance WordPress plugins. Your contributions are vital to enhancing the quality and performance of Breakdance, and we are eager to hear from you!
 
 ### Guidelines for Posting
 
