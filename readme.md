@@ -1,35 +1,38 @@
-## READ BEFORE POSTING
+## Welcome to the Breakdance Bug Report Repository!
 
- - This repository is for valid bug reports only.
- - Feature requests and functionality enhancements must be posted at https://breakdance.canny.io/.
- - If you require a response, the Breakdance support team is always happy to help you. Visit https://breakdance.com/support to contact us.
- - This is a tracker, not a support ticketing system. In most cases, we do not respond to issues posted on this repository, nor do we provide status updates.
- - If the bug only happens on your environment but can't be reproduced elsewhere, contact our support team for assistance. Visit https://breakdance.com/support for technical support from the Breakdance team.
+Thank you for choosing to help us improve Breakdance! This repository is dedicated to collecting bug reports for the Breakdance WordPress plugins. Your contributions are vital to enhancing the quality and performance of Breakdance, and we are eager to hear from you.
 
-# What is a valid bug report?
+### Guidelines for Posting
 
-This repository is for bugs in the Breakdance WordPress plugins.
+- **Bug Reports Only:** Please ensure your submission is a valid bug report. This repository does not handle feature requests or enhancements. For those, please visit [our suggestions page](https://breakdance.canny.io/).
+- **Direct Support:** If you need a direct response or assistance, please connect with the Breakdance support team at [our support page](https://breakdance.com/support). This repository is for tracking purposes and not a support ticket system.
+- **Environment Specific Issues:** If you encounter a bug that is unique to your own setup and cannot be reproduced elsewhere, please seek help from our support team at [Breakdance support](https://breakdance.com/support).
 
-Bugs must include clear instructions to reproduce and contain all relevant information.
+### What Constitutes a Valid Bug Report?
 
-The bug must be reproducible by the Breakdance team on a clean WordPress installation.
+A valid bug report must include clear, concise, and repeatable steps to reproduce the issue along with all relevant information. It should be something that our team can replicate on a clean WordPress installation. 
 
-Invalid bug reports or posts that are not bug reports will be closed or deleted.
+### Our Review and Response Protocol
 
-# We do not respond here.
+While we do not respond to each issue directly here, rest assured every report is reviewed. We prioritize bugs based on their impact and urgency. If your issue appears on [our GitHub issues page](https://github.com/soflyy/breakdance-bugs/issues), it means we have received and logged your report.
 
-We periodically review bug reports posted here and choose how to prioritize them for fixes.
+For a direct response from us, please connect with the Breakdance support team at [our support page](https://breakdance.com/support).
 
-If you can see your issue at https://github.com/soflyy/breakdance-bugs/issues, it means the Breakdance team has received your issue.
+### Note on Communication
 
-You will not receive further confirmation or communication about the status of the issue.
+- We **do not respond** to most issues directly in this tracker. Please do not expect personal updates or status reports here.
+- **Closure and Deletion of Issues:** Invalid bug reports or submissions that do not align with our guidelines will be closed or deleted without notice.
 
-If you require a response, please contact our support team.
+### Additional Resources
 
-# Other
+For additional details, please view this [video tutorial](https://www.loom.com/share/1300685552e84054a80259f0eca164fa).
 
-Video overview of how to submit a bug report: https://www.loom.com/share/1300685552e84054a80259f0eca164fa
+*Note: While we are maintaining historical feature requests in this repository, all new enhancement suggestions should be posted on our suggestions page.*
 
-*Note: there are some existing feature requests in this repository. While those will remain here for now, all new requests should be posted at https://breakdance.canny.io/*
+**All reports that lack clear, reproducible steps will be closed. We appreciate your cooperation and adherence to these guidelines.**
 
-**All reports without clear, repeatable steps to reproduce will be closed.**
+### Why These Guidelines Matter
+
+Our guidelines are designed to ensure that your contributions are impactful and that we can efficiently address issues. Clear, reproducible bug reports help us quickly identify and fix problems, enhancing the overall user experience. We are thrilled to work together with you to make Breakdance better for everyone!
+
+Thank you for your support and contributions!
