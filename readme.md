@@ -1,6 +1,6 @@
 ## USER BUG REPORTS ONLY - ALL OTHER ISSUES WILL BE CLOSED WITHOUT RESPONSE
 
-https://www.loom.com/share/1300685552e84054a80259f0eca164fa
+Video overview of how to submit a bug report: https://www.loom.com/share/1300685552e84054a80259f0eca164fa
 
 Report bugs for Breakdance in this repository. Bugs must include clear instructions to reproduce and contain all relevant information.
 
