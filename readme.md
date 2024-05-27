@@ -1,10 +1,10 @@
 ## READ BEFORE POSTING
 
- - Feature requests and functionality enhancements must be posted at https://breakdance.canny.io/.
- - The Breakdance support team is always happy to help you. Visit https://breakdance.com/support to contact us.
- - If the bug only happens on your environment but can't be reproduced elsewhere, contact our support team for assistance. Visit https://breakdance.com/support for technical support from the Breakdance team.
  - This repository is for valid bug reports only.
- - This is a tracker, not a support ticketing system. In most cases, we do not respond to issues posted on this repository.
+ - Feature requests and functionality enhancements must be posted at https://breakdance.canny.io/.
+ - If you require a response, the Breakdance support team is always happy to help you. Visit https://breakdance.com/support to contact us.
+ - This is a tracker, not a support ticketing system. In most cases, we do not respond to issues posted on this repository, nor do we provide status updates.
+ - If the bug only happens on your environment but can't be reproduced elsewhere, contact our support team for assistance. Visit https://breakdance.com/support for technical support from the Breakdance team.
 
 # What is a valid bug report?
 
